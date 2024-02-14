@@ -1,4 +1,4 @@
-<p align="center"> Проекты Data Science </p align="center">
+<p align="center"> Проекты Data Science(Yandex_Practicum) </p align="center">
 
 
 | **Проект** | **Описание** | **Используемые библиотеки** |
